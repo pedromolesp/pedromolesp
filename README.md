@@ -20,7 +20,7 @@
 [Android-url]: https://developer.android.com/
 [Flask]: https://img.shields.io/badge/Flask-20232A?style=for-the-badge&logo=flask&logoColor=ffffffff
 [Flask-url]: https://flask.palletsprojects.com/en/2.2.x/
-[Node]: https://img.shields.io/badge/Node-20232A?style=for-the-badge&logo=node&logoColor=ffffffff
+[Node]: https://img.shields.io/badge/Node-20232A?style=for-the-badge&logo=node.js&logoColor=ffffffff
 [Node-url]: https://nodejs.org/es/
 [Sqlite]: https://img.shields.io/badge/Sqlite-20232A?style=for-the-badge&logo=sqlite&logoColor=ffffffff
 [Sqlite-url]: https://www.sqlite.org/index.html
