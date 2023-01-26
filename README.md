@@ -7,6 +7,7 @@
 [![Flutter][Flutter]][Flutter-url]
 [![Android][Android]][Android-url]
 [![React][React.js]][React-url]
+[![Sqlite][Sqlite]][Sqlite-url]
 
 
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
@@ -15,5 +16,8 @@
 [Flutter-url]: https://flutter.dev/
 [Android]: https://img.shields.io/badge/Android-20232A?style=for-the-badge&logo=android&logoColor=3ddc84
 [Android-url]: https://developer.android.com/
+[Sqlite]: https://img.shields.io/badge/Sqlite-20232A?style=for-the-badge&logo=sqlite&logoColor=ffffffff
+[Sqlite-url]: https://www.sqlite.org/index.html
+
 
 
