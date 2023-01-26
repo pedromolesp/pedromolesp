@@ -12,7 +12,7 @@
 [React-url]: https://reactjs.org/
 [Flutter]: https://img.shields.io/badge/Flutter-20232A?style=for-the-badge&logo=flutter&logoColor=61DAFB
 [Flutter-url]: https://flutter.dev/
-[Android]: https://img.shields.io/badge/Flutter-20232A?style=for-the-badge&logo=flutter&logoColor=61DAFB
+[Android]: https://img.shields.io/badge/Android-20232A?style=for-the-badge&logo=android&logoColor=3ddc84
 [Android-url]: https://developer.android.com/
 
 
