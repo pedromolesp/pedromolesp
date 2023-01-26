@@ -5,12 +5,13 @@
 - 💬 Ask me about Flutter design
 
 [![Flutter][Flutter]][Flutter-url]
-[![React][React.js]][React-url]
 [![Android][Android]][Android-url]
+[![React][React.js]][React-url]
+
 
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
-[Flutter]: https://img.shields.io/badge/Flutter-20232A?style=for-the-badge&logo=flutter&logoColor=61DAFB
+[Flutter]: https://img.shields.io/badge/Flutter-20232A?style=for-the-badge&logo=flutter&logoColor=13b9fd
 [Flutter-url]: https://flutter.dev/
 [Android]: https://img.shields.io/badge/Android-20232A?style=for-the-badge&logo=android&logoColor=3ddc84
 [Android-url]: https://developer.android.com/
